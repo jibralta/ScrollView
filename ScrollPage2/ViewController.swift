@@ -9,7 +9,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-    // comment test
     
     @IBOutlet weak var scrollView: UIScrollView!
     
